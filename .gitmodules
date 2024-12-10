@@ -1,3 +1,4 @@
-[submodule "app/src/main/cpp/Dobby"]
-	path = app/src/main/cpp/Dobby
-	url = https://github.com/chiteroman/Dobby.git
+[submodule "app/src/main/cpp/shadowhook"]
+	path = app/src/main/cpp/shadowhook
+	url = https://github.com/bytedance/android-inline-hook.git
+	branch = dev
